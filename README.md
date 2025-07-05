@@ -31,7 +31,7 @@ The goal is to identify performance strengths, weaknesses, and improvement oppor
 
 | File | Description |
 |------|-------------|
-| `Supermart_Dashboard_Template.xlsx` | Final Excel Dashboard |
+| `Dashboard/Supermart_Dashboard_Template.xlsx` | Final Excel Dashboard |
 | `Raw_Data/Supermart_Branch_Performance_Data.xlsx` | Cleaned source data |
 | `Snapshots/` | Dashboard screenshots |
 | `README.md` | This project description |
